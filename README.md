@@ -1,6 +1,6 @@
 # classificando-vinhos
 
-:brazil:
+:wine_glass:
 
 O objetivo desse projeto é usar a base de dados de vinhos do ***Sklearn*** para criar um modelo que classifica vinhos.
 Os vinhos são divididos em três classes: 
